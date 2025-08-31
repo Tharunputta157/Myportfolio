@@ -1,0 +1,8 @@
+.experiences-section { padding: 2rem 0; }
+.experiences-section h2 { color: #6366f1; font-size: 2rem; margin-bottom: 1.2rem; }
+.experience { background: #fff; border-radius: 12px; box-shadow: 0 2px 12px rgba(99,102,241,0.07); margin-bottom: 2rem; padding: 1.5rem 1.2rem; transition: box-shadow 0.2s; }
+.experience:hover { box-shadow: 0 4px 24px rgba(99,102,241,0.13); }
+.experience h3 { margin: 0 0 0.3rem 0; color: #374151; font-size: 1.2rem; }
+.experience span { color: #6366f1; font-size: 0.98rem; font-weight: 500; }
+.experience ul { margin: 0.7rem 0 0 1.2rem; padding: 0; }
+.experience li { margin-bottom: 0.5rem; color: #374151; font-size: 1rem; }

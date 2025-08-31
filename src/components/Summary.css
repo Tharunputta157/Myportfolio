@@ -1,0 +1,4 @@
+.summary-section { padding: 2rem 0; text-align: center; }
+.summary-section h2 { color: #6366f1; font-size: 2rem; margin-bottom: 1.2rem; }
+.summary-section p { font-size: 1.15rem; color: #374151; max-width: 700px; margin: 0 auto; line-height: 1.7; }
+.summary-section strong { color: #6366f1; }

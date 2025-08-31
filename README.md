@@ -9,17 +9,17 @@ graph TD
     A[User's Browser]
     B[Vite Dev Server]
     C[React Frontend]
-    D[Component: Header]
-    E[Component: Summary]
-    F[Component: Skills]
-    G[Component: Experiences]
-    H[Component: Projects]
-    I[Component: Education]
-    J[Component: Contact]
+    D[Header Component]
+    E[Summary Component]
+    F[Skills Component]
+    G[Experiences Component]
+    H[Projects Component]
+    I[Education Component]
+    J[Contact Component]
     K[CSS Modules]
-    L[Node.js Backend (for future API integration)]
-    M[MySQL Database (for future API integration)]
-    N[AWS (for future deployment)]
+    L[Node.js Backend (future)]
+    M[MySQL Database (future)]
+    N[AWS Deployment (future)]
 
     A -->|HTTP| B
     B --> C
@@ -31,8 +31,8 @@ graph TD
     C --> I
     C --> J
     C --> K
-    L -.-> M
     C -.-> L
+    L -.-> M
     B -.-> N
 ```
 
